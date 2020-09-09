@@ -1,0 +1,6 @@
+name: CISC124_Fall_2020
+channels:
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - beakerx
